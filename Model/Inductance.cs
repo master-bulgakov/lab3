@@ -8,24 +8,28 @@
         /// <summary>
         /// Константа хранящая значение минимальной 
         /// угловой частоты катушки.
+        /// по умолчанию 0
         /// </summary>
         public const int minimalAngularFrequency = 0;
 
         /// <summary>
         /// Константа хранящая значение максимальной 
         /// угловой частоты катушки.
+        /// по умолчанию 100
         /// </summary>
         public const int maximumAngularFrequency = 100;
 
         /// <summary>
         /// Константа хранящая минимальное значение 
         /// индуктивности катушки.
+        /// по умолчанию 500
         /// </summary>
         public const int minimalInductivity = 0;
 
         /// <summary>
         /// Константа хранящая максимальное значение 
         /// индуктивности катушки.
+        /// по умолчанию 100
         /// </summary>
         public const int maximumInductivity = 100;
 

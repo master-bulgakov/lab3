@@ -10,24 +10,28 @@ namespace Model
         /// <summary>
         /// Константа хранящая значение 
         /// минимальной угловой частоты конденсатора.
+        /// по умолчанию 0
         /// </summary>
         public const int minimalAngularFrequency = 0;
 
         /// <summary>
         /// Константа хранящая значение 
         /// максимальной угловой частоты конденсатора.
+        /// по умолчанию 500
         /// </summary>
         public const int maximumAngularFrequency = 500;
 
         /// <summary>
         /// Константа хранящая значение 
         /// минимальной ёмкости конденсатора.
+        /// по умолчанию 0
         /// </summary>
         public const int minimalCapacity = 0;
 
         /// <summary>
         /// Константа хранящая значение 
         /// максимальной ёмкости конденсатора.
+        /// по умолчанию 100
         /// </summary>
         public const int maximumCapacity = 100;
 
